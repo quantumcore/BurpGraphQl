@@ -1,4 +1,4 @@
-# Burpgraphql
+# [BurpGraphQl](https://pypi.org/project/BurpGraphQl/1.5/)
 This is a Python module for controlling / automating Burpsuite Enterprise via their GraphQL API.
 
 ### Usage
