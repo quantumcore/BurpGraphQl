@@ -1,5 +1,5 @@
 # [BurpGraphQl](https://pypi.org/project/BurpGraphQl/1.5/)
-This is a Python module for controlling / automating Burpsuite Enterprise via their GraphQL API.
+This is a Python module for controlling / automating Burpsuite Enterprise via their [GraphQL API^](https://portswigger.net/burp/extensibility/enterprise/graphql-api/).
 
 ### Usage
 ```
